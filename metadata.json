@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Repair Inspection & Warehouse System",
+  "description": "ระบบตรวจสอบสภาพโทรศัพท์มือถือ ประเมินความเสียหาย และจัดการคลังสินค้าในงานซ่อม พร้อมระบบส่งเคสและออกใบประเมินราคา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
